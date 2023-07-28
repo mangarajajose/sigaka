@@ -1,0 +1,21 @@
+Sistem Requirement :
+
+Framework Codeigniter
+Database MySQL
+Xampp / PHP 5.6
+Panduan Instalasi :
+
+Download dan Instal Aplikasi Xampp/Wampserver di Komputer.
+Ekstrak file menggunakan aplikasi WinRAR.
+Copy folder sigaka, lalu copas ke folder htdocs/www.
+Aktifkan Apache dan MySQL pada Xampp/Wampserver.
+Buka browser, lalu buka alamat localhost/phpMyAdmin.
+Buat database baru dengan nama db_sigaka.
+Import database aplikasi ke dalam database db_sigaka.
+Jalankan project dengan ketik localhost/sigaka/login/.
+Login dengan username : admin, Password : admin.
+Selesai.
+
+Akses login
+admin : username : admin password: admin
+Owner : username : owner password: owner
