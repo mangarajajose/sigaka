@@ -9,7 +9,7 @@
 	<meta name="description" content="Sistem Informasi Penggajian Selkom Group">
 	<meta name="keywords" content="Sistem Informasi Penggajian Selkom Group">
 	<meta name="author" content="Jihad">
-	<title><?= $title ?> - Selkom Group</title>
+	<title><?= $title ?> - KB insucare Indonesia</title>
 	<link rel="apple-touch-icon" href="<?= base_url() ?>assets/images/ico/apple-icon-120.png">
 	<link rel="shortcut icon" type="image/x-icon" href="<?= base_url() ?>assets/images/logo/kb.jpg">
 	<link
